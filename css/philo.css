@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+
+body {
+    background-color: #EDEDED;
+    margin:0%;
+}
+
+.philo-paras {
+    font-family: 'Lobster Two', cursive;
+    color: #171717;
+    font-size: 20px;
+}
+
+.philo-headers {
+    font-family: 'Lobster Two', cursive;
+}
+
+.philo-title-link {
+    color: #DA0037;
+    font-family: 'Lobster Two', cursive;
+    display: block;
+    width:100px;
+    margin: 0px auto;
+}
+
+.philo-hr {
+    border: 2px solid #171717;
+    background-color: #171717;
+    border-radius: 20px;
+    width: 70%;
+}
+
+.philo-footer {
+    text-align: center;
+}
+
+#philo-title-link-container {
+    text-align: center;
+}
+
+#philo-footer-link {
+    color: #DA0037;
+}
+
+#philo-footer-para {
+    color: #171717;
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+    margin: 30px 0px 30px 0px;
+    text-decoration: underline;
+}
+
+#title-div {
+    background-color: #171717;
+    text-align: center;
+    margin: 0px 0px 70px 0px; 
+    padding: 50px 0px 20px 0px; 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#philo-title-img {
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 400px;
+}
+
+#philo-content-div {
+    text-align: left;
+    padding: 0px 60px 20px 60px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #DA0037;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 25px;
+    color: #DA0037;
+}

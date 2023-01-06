@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+
+body {
+    background-color: #EDEDED;
+    margin:0%;
+}
+
+.index-headers {
+    font-family: 'Lobster Two', cursive;
+}
+
+.index-paras {
+    font-family: 'Lobster Two', cursive;
+    color: #171717;
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.index-a-styles {
+    color: #DA0037;
+}
+
+.index-content-divs {
+    margin: 50px 0px 50px 0px;
+    padding: 0px 150px 20px 150px;
+    text-align: center;
+}
+
+.index-para-span {
+    color: #171717;
+    text-decoration: underline;
+}
+
+.index-hr-styles {
+    border: 2px solid #171717;
+    background-color: #171717;
+    border-radius: 20px;
+    width: 70%;
+}
+
+#title-div {
+    background-color: #171717;
+    text-align: center;
+    margin: 0px 0px 70px 0px; 
+    padding: 50px 0px 50px 0px; 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#index-cover-photo {
+    border-radius: 50%;
+}
+
+#index-iframe {
+    border-radius: 25px;
+    width: 500px;
+    height: 300px;
+}
+
+#index-iframe-div {
+    margin: 80px 0px 50px 0px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    color: #DA0037;
+}
+
+h2 {
+    font-size: 30px;
+    color: #DA0037;
+}
+
+h3 {
+    font-size: 25px;
+    color: #DA0037;
+}
