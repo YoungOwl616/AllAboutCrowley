@@ -5,6 +5,17 @@ body {
     margin:0%;
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px 20px 0px;
+    font-family: 'Lobster Two', cursive;
+    color: #DA0037;
+    background-color: #171717;
+}
+
 .philo-paras {
     font-family: 'Lobster Two', cursive;
     color: #171717;
